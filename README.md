@@ -111,6 +111,6 @@ The complete project documentation is available in the **final documentation.pdf
 
 ## Author
 
-**Shalita. R**
+**Sanjay. V**
 
 Personal Data Analytics Portfolio Project
